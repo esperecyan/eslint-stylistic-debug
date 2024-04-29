@@ -1,0 +1,15 @@
+{
+	"private": false,
+	"name": "@esperecyan/eslint-stylistic-debug",
+	"license": "CC0-1.0",
+	"author": {
+		"name": "100の人",
+		"url": "https://github.com/esperecyan/eslint-stylistic-debug"
+	},
+	"type": "module",
+	"main": "index.js",
+	"devDependencies": {
+		"eslint": "^9.1.1",
+		"@stylistic/eslint-plugin": "^1.7.2"
+	}
+}
